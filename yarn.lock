@@ -1748,6 +1748,11 @@
   dependencies:
     "@tanstack/query-core" "5.17.10"
 
+"@telegram-auth/react@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@telegram-auth/react/-/react-1.0.4.tgz#4b44dfbd92ca646dde2cbb4352fd85bd959ef52c"
+  integrity sha512-VPCIrA6h5+w69S1QvB/k2PphmAA9E8BSqEX4WMSE1P7KxexKl/VRdoTRKSsSx1/In94S+R7FufbjLrRMnEGEKg==
+
 "@types/big.js@^6.2.2":
   version "6.2.2"
   resolved "https://registry.yarnpkg.com/@types/big.js/-/big.js-6.2.2.tgz#69422ec9ef59df1330ccfde2106d9e1159a083c3"
@@ -3303,9 +3308,9 @@ cross-fetch@^4.0.0:
     node-fetch "^2.6.12"
 
 cross-spawn@^7.0.0, cross-spawn@^7.0.2, cross-spawn@^7.0.3:
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.3.tgz#f73a85b9d5d41d045551c177e2882d4ac85728a6"
-  integrity sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w==
+  version "7.0.6"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.6.tgz#8a58fe78f00dcd70c370451759dfbfaf03e8ee9f"
+  integrity sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==
   dependencies:
     path-key "^3.1.0"
     shebang-command "^2.0.0"
